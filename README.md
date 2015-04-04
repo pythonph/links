@@ -5,6 +5,11 @@ Curated list of Python resources (guides, tutorials, books, etc)
 - [Web Frameworks]
 - [Hosting]
 
+## See also
+We only scratch the common choices here. If you are looking to explore the other
+myriad possible choices, take a look at the [awesome-python](https://github.com/vinta/awesome-python)
+listing.
+
 ## Contributing
 This repo is maintained by PythonPH. If you find any mistakes, wish to contribute your changes or submit suggestions, you may:
 1. fork this repo to your own github account and submit a pull request or 
