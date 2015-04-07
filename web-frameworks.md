@@ -4,4 +4,4 @@
 
 ## Relevant libraries
 - [SQL Alchemy](http://www.sqlalchemy.org/) - For Object-Relational Mapping.
-- [Jinja2](http://jinja.pocoo.org/docs/dev/) - A templating language for Python.
+- [Jinja2](http://jinja.pocoo.org/) - A templating language for Python.
