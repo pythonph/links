@@ -17,7 +17,7 @@ listing.
 A: Check out [PythonPH's Jobs Board](https://python.ph/jobs/)
 
 #### Q: I'm looking for Python developers, where can I post my job ads?
-A: You can post your job ads for FREE at [PythonPH's Jobs Board](http://jobs.python.ph/). You may follow the posting instructions [here](https://github.com/pythonph/pylinks/blob/master/jobs-board.md).
+A: You can post your job ads for FREE at [PythonPH's Jobs Board](https://python.ph/jobs/). Just create an account, submit a job ad (needs to be python-related) and wait for it to get approved.
 
 ## Contributing
 This repo is maintained by PythonPH. If you find any mistakes, wish to contribute your changes or submit suggestions, you may:
