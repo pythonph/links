@@ -14,7 +14,7 @@ possible choices, take a look at the [awesome-python](https://github.com/vinta/a
 listing.
 
 #### Q: I'm a developer looking for work, where can I find opportunities?
-A: Check out [PythonPH's Jobs Board](http://jobs.python.ph/)
+A: Check out [PythonPH's Jobs Board](https://python.ph/jobs/)
 
 #### Q: I'm looking for Python developers, where can I post my job ads?
 A: You can post your job ads for FREE at [PythonPH's Jobs Board](http://jobs.python.ph/). You may follow the posting instructions [here](https://github.com/pythonph/pylinks/blob/master/jobs-board.md).
