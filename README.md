@@ -19,6 +19,9 @@ A: Check out [PythonPH's Jobs Board](https://python.ph/jobs/)
 #### Q: I'm looking for Python developers, where can I post my job ads?
 A: You can post your job ads for FREE at [PythonPH's Jobs Board](https://python.ph/jobs/). Just create an account, submit a job ad (needs to be python-related) and wait for it to get approved.
 
+#### Q: I would like to start a meetup group? How do I start?
+A: We put together this [meetup starter kit](https://github.com/pythonph/meetup-starter-kit/blob/master/README.md) for you
+
 ## Contributing
 This repo is maintained by PythonPH. If you find any mistakes, wish to contribute your changes or submit suggestions, you may:
 1. fork this repo to your own github account and submit a pull request or 
