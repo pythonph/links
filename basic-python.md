@@ -7,5 +7,5 @@
 - [Python for Informatics](http://pythonlearn.com/book.php)
 - [Dive into Python](http://www.diveintopython.net/)
 - [Python Standard Library by Example](http://doughellmann.com/pages/python-standard-library-by-example.html)
-- [Django Girls](http://tutorial.djangogirls.org/en/)
+- [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
 - [TDD with Python](http://chimera.labs.oreilly.com/books/1234000000754)
