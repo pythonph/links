@@ -1,4 +1,7 @@
 ## Beginner-friendly Python Resources
+- The Python Tutorial (from Python.org)
+  - [For Python 2.x](https://docs.python.org/2/tutorial/index.html)
+  - [For Python 3.x](https://docs.python.org/3/tutorial/index.html)
 - [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/book/)
 - [Google Python Class](https://developers.google.com/edu/python/)
 - [Python for Informatics](http://pythonlearn.com/book.php)
