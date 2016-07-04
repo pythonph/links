@@ -2,7 +2,7 @@
 A sticky for Python resources (guides, tutorials, books, etc) that aims to answer FAQs posted in the [PythonPH facebook group](https://www.facebook.com/groups/pythonph/).
 
 #### Q: I have no prior programming background. I have no idea where to start. Any suggestions?
-A: Check out this ["So you want to learn to code" guide](http://williln.github.io/)
+A: Check out this ["So you want to learn to code" guide](http://williln.github.io/). It contains resources that will help you learn Python and Django.
 
 #### Q: I'm looking for Python resources, where can I find them?
 A: Check out the list below:
