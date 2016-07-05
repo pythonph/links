@@ -10,3 +10,9 @@
 ## Relevant libraries
 - [SQL Alchemy](http://www.sqlalchemy.org/) - For Object-Relational Mapping.
 - [Jinja2](http://jinja.pocoo.org/) - A templating language for Python.
+
+
+## Related resources/references
+- [Awesome Django](https://github.com/rosarior/awesome-django)
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
+- [Awesome Pyramid](https://github.com/uralbash/awesome-pyramid)
