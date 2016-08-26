@@ -12,7 +12,7 @@
 - [TDD with Python](http://chimera.labs.oreilly.com/books/1234000000754)
 
 ## Interactive coding tutorials
-Tutorial websites where you can 
+Tutorial websites where you can write (and test) code while reading
 - [Codecademy](https://www.codecademy.com/learn/python)
 - [Hackerrank](https://www.hackerrank.com/domains/python/py-introduction]
 - [Learnpython](http://www.learnpython.org/)
