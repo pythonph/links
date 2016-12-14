@@ -14,7 +14,6 @@ Check out the list below:
 - [Web Frameworks](web-frameworks.md)
 - [Hosting](hosting.md)
 
-> __See also__
 > We only scratch the common choices here. If you are looking to explore the other possible choices, take a look at the [awesome-python](https://github.com/vinta/awesome-python) listing.
 
 #### I'm a developer looking for work, where can I find opportunities?
