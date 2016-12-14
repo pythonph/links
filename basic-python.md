@@ -14,7 +14,7 @@
 ## Interactive coding tutorials
 Tutorial websites where you can write (and test) code while reading
 - [Codecademy](https://www.codecademy.com/learn/python)
-- [Hackerrank](https://www.hackerrank.com/domains/python/py-introduction]
+- [Hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
 - [Learnpython](http://www.learnpython.org/)
 
 ## Python 2.x vs. Python 3.x
