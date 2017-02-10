@@ -10,6 +10,7 @@
 - [Python Standard Library by Example](http://doughellmann.com/pages/python-standard-library-by-example.html)
 - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
 - [TDD with Python](http://chimera.labs.oreilly.com/books/1234000000754)
+- [Django Web Framework (Python) - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 ## Interactive coding tutorials
 Tutorial websites where you can write (and test) code while reading
