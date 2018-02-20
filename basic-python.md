@@ -18,6 +18,10 @@ Tutorial websites where you can write (and test) code while reading
 - [Hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
 - [Learnpython](http://www.learnpython.org/)
 
+## Learning Python through games
+- [Injection](https://schilcote.itch.io/injection)
+  - INJECTION is a programming puzzle game [...]. It's written in Python and indeed that's the language you'll be using to solve the puzzles. 
+
 ## Python 2.x vs. Python 3.x
 - [What's new in Python 3.0 (official)](https://docs.python.org/3/whatsnew/3.0.html)
   -  Read this link for an introduction of the key changes between Python 2.7 and 3.0 (the first in the 3.x series). Once you're done, do follow it up with [the other "what's new" documents](https://docs.python.org/3/whatsnew/) for the succeeding 3.x versions
