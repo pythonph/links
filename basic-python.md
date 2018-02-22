@@ -3,13 +3,15 @@
   - [For Python 3.x](https://docs.python.org/3/tutorial/index.html)
   - [For Python 2.x](https://docs.python.org/2/tutorial/index.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
+- [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 - [Learn Python the Hard Way by Zed Shaw](http://learnpythonthehardway.org/book/)
 - [Google Python Class](https://developers.google.com/edu/python/)
 - [Python for Informatics](http://pythonlearn.com/book.php)
-- [Dive into Python](http://www.diveintopython.net/)
+- [Dive into Python (Last updated 2004, but still have good writing)](http://www.diveintopython.net/)
 - [Python Standard Library by Example](http://doughellmann.com/pages/python-standard-library-by-example.html)
-- [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
 - [TDD with Python](http://chimera.labs.oreilly.com/books/1234000000754)
+- [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
 - [Django Web Framework (Python) - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 ## Interactive coding tutorials
