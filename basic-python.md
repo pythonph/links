@@ -23,13 +23,15 @@ Tutorial websites where you can write (and test) code while reading
 
 ## Learning Python through games
 - [Injection](https://schilcote.itch.io/injection)
-  - INJECTION is a programming puzzle game [...]. It's written in Python and indeed that's the language you'll be using to solve the puzzles. 
+  - INJECTION is a programming puzzle game [...]. It's written in Python and indeed that's the language you'll be using to solve the puzzles.
 
 ## Resources from the Python Philippines Community
 ### MrValdez
 - [Hello World for introducing programming to non-programmers](https://mrvaldez.ph/my-suggested-hello-world-for-introducing-programming-to-non-programmers)
 - [Projects for programming beginners](https://mrvaldez.ph/projects-for-programming-beginners)
 - [Projects for Python beginners](https://mrvaldez.ph/projects-for-programming-beginners)
+### PyLokal
+- [Top Concerns of Python Beginners video] https://youtu.be/4JlTdhaatVk
 
 ## Python 2.x vs. Python 3.x
 - Note: [Python 2.7 will not be maintained starting on January 1, 2020](https://pythonclock.org/). If you are a beginner looking to learn Python, we highly recommend learning Python 3. If you need to know Python 2, we recommend learning Python 3 first *then* learning the difference between both versions. It would be easier *and* you'll still be able to apply what you've learned, going forward.
