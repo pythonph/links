@@ -1,6 +1,3 @@
-## Legally free Python Books
-- [Python Members Club curated list](https://www.pythonmembers.club/2020/01/29/legally-free-python-books-list/)
-
 ## Beginner-friendly Python Resources
 - The (official) Python Tutorial (from Python.org)
   - [For Python 3.x](https://docs.python.org/3/tutorial/index.html)
