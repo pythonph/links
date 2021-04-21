@@ -19,6 +19,7 @@ Tutorial websites where you can write (and test) code while reading
 - [Codecademy](https://www.codecademy.com/learn/python)
 - [Hackerrank](https://www.hackerrank.com/domains/python/py-introduction)
 - [Learnpython](http://www.learnpython.org/)
+- [DataCamp - Intro to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## Learning Python through games
 - [Injection](https://schilcote.itch.io/injection)
