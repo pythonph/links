@@ -34,6 +34,8 @@ Tutorial websites where you can write (and test) code while reading
 - [Top Concerns of Python Beginners video](https://youtu.be/4JlTdhaatVk)
 ### codemickeycode
 - [A Magic Carpet Ride to Python - a quick introduction to  the basics of Python and it's many possibilities](https://github.com/codemickeycode/magic-carpet-python)
+### Marvin Tensuan
+- [The No-Nonsense Python Beginner Roadmap](https://github.com/marvintensuan/Python-Lessons/blob/master/Beginner%20Roadmap/The%20No-Nonsense%20Python%20Beginner%20Roadmap.ipynb)
 
 ## Python 2.x vs. Python 3.x
 - Note: [Python 2.7 will not be maintained starting on January 1, 2020](https://pythonclock.org/). If you are a beginner looking to learn Python, we highly recommend learning Python 3. If you need to know Python 2, we recommend learning Python 3 first *then* learning the difference between both versions. It would be easier *and* you'll still be able to apply what you've learned, going forward.
