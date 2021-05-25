@@ -5,6 +5,7 @@
 - [Flask](http://flask.pocoo.org/)
 - [Pyramid/Pylons](http://www.pylonsproject.org/)
 - [Web2Py](http://www.web2py.com/)
+- [Fast API](https://fastapi.tiangolo.com)
 
 
 ## Relevant libraries
